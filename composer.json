@@ -1,0 +1,14 @@
+{
+    "name": "mglopez/profiled",
+    "description": "Profiled website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Manuel Glez",
+            "email": "mglopez@me.com"
+        }
+    ],
+    "require": {
+        "tightenco/jigsaw": "^1.2"
+    }
+}

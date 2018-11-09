@@ -1,0 +1,33 @@
+/***************************
+Add your custom styles below
+****************************/
+
+div.feature.feature-1 {
+    text-align: center;
+}
+div.feature.feature-1 > ul > li {
+    text-align: left;
+    padding-left: 1em;
+}
+.h7{
+    font-size: 2.8125em;
+    line-height: 1.15555556em;
+    font-family: 'PT Sans', sans-serif;
+    color: #343434;
+    font-weight: 200;
+    font-variant-ligatures: none;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.glyphicon-ok{
+    color: #767676;
+    font-size: .75em;
+    font-weight: 200;
+}
+.nonegrita{
+    font-weight: 300;
+}
+.selected{
+    font-weight: 700;
+}
+
