@@ -74,7 +74,7 @@
 
                         <i>
                             <p class="lead"><b>Solid roots.</b> Our group was founded more than 30 years ago, becoming one
-                                of the reference companies in Europe in power saving and image lighting. <br></p>
+                                of the reference companies in Europe in power saving and corporate image lighting. <br></p>
                             <p class="lead">We are one of the few companies homologated by big brands of petrol
                                 distribution, food & beverages, cars, banks and elevators industries in Europe. <br></p>
                             <p class="lead">Currently, we count with a multicultural team of professionals in different

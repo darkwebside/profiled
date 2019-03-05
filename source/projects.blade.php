@@ -26,69 +26,37 @@
                             <h2>Some of our works</h2>
                         </div>
                     </div>
+                    <!-- Start parkings-->
                     <div class="col-sm-12">
+
                         <div class="card card--horizontal card-6">
                             <div class="card__image col-sm-7 col-md-7">
                                 <div class="background-image-holder">
-                                    <img alt="Pic" src="assets/images/carrefour3.jpg">
+                                    <img alt="Pic" src="assets/images/parkings.jpg">
                                 </div>
                             </div>
                             <div class="card__body col-sm-5 col-md-5 boxed boxed--lg bg--white">
-                                <h7>Carrefour Furniture</h7>
+                                <h7>Parking Solutions</h7>
                                 <br>
                                 <br>
+
                                 <div class="card__title">
-                                    <h4>Rigid PVC lighting AC profile <br>for product showcase shelves.</h4>
+                                    <h4>Flexible and discontinuous AC LED Strip</h4>
                                 </div>
                                 <br>
                                 <p>
-                                    <b>Challenge:</b> <br>Fulfill the lighting requirements in the retail industry using
-                                    AC
-                                    linear lighting profiles removable with magnetic fixation. Linkable solution up to
-                                    100
-                                    meters and ultra slim.</p>
+                                    <b>Challenge:</b> <br>Reach highest standards in efficiency and energy saving, optimizing as well installation and material costs. Profiled AC LED strips is the ultimate lighting solution for     parking owners and managers worldwide
+
+                                </p>
                                 <p>
                                     <br> <b>CE RoHS</b></p>
                             </div>
                         </div>
 
                     </div>
-                    <div class="col-sm-12">
-                        <div class="card card--horizontal card-6">
-                            <div class="card__image col-sm-7 col-md-7">
-                                <div class="background-image-holder">
-                                    <img alt="Pic" src="assets/images/thyssen.jpg">
-                                </div>
-                            </div>
-                            <div class="card__body col-sm-5 col-md-5 boxed boxed--lg bg--white">
-                                <h7>Thyssen Elevators</h7>
-                                <br>
-                                <br>
+                    <!--End parkings-->
 
-                                <div class="card__title">
-                                    <h4>Flexible and discontinuous <br>AC LED Strip.</h4>
-                                </div>
-                                <p>
-                                    <b>Challenge:</b> <br>The elevation industry is one of the most restrictive in terms
-                                    of
-                                    safety regulations. We were required to provide a flexible solution, with
-                                    customizable
-                                    length up to 300 meters and with UGR&lt;22.</p>
-                                <p>
-                                    <br> <b>CE RoHS EN81-20 EAC UL</b></p>
-                                <hr>
-
-
-                                <div class="card__lower">
-                                    <span class="h6"><b>Markets:</b></span><br>
-                                    <span class="h6">russia, brazil, europe, usa</span>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-
+                    <!-- Start BK -->
                     <div class="col-sm-12">
 
                         <div class="card card--horizontal card-6">
@@ -123,8 +91,76 @@
                         </div>
 
                     </div>
+                    <!--End  BK-->
+
+                    <!--Start Elevators-->
+                    <div class="col-sm-12">
+                        <div class="card card--horizontal card-6">
+                            <div class="card__image col-sm-7 col-md-7">
+                                <div class="background-image-holder">
+                                    <img alt="Pic" src="assets/images/thyssen.jpg">
+                                </div>
+                            </div>
+                            <div class="card__body col-sm-5 col-md-5 boxed boxed--lg bg--white">
+                                <h7>Thyssen Elevators</h7>
+                                <br>
+                                <br>
+
+                                <div class="card__title">
+                                    <h4>Flexible and discontinuous <br>AC LED Strip.</h4>
+                                </div>
+                                <p>
+                                    <b>Challenge:</b> <br>The elevation industry is one of the most restrictive in terms
+                                    of
+                                    safety regulations. We were required to provide a flexible solution, with
+                                    customizable
+                                    length up to 300 meters and with UGR&lt;22.</p>
+                                <p>
+                                    <br> <b>CE RoHS EN81-20 EAC UL</b></p>
+                                <hr>
 
 
+                                <div class="card__lower">
+                                    <span class="h6"><b>Markets:</b></span><br>
+                                    <span class="h6">russia, brazil, europe, usa</span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- End elevators-->
+
+                    <!--Start Carrefour-->
+                    <div class="col-sm-12">
+                        <div class="card card--horizontal card-6">
+                            <div class="card__image col-sm-7 col-md-7">
+                                <div class="background-image-holder">
+                                    <img alt="Pic" src="assets/images/carrefour3.jpg">
+                                </div>
+                            </div>
+                            <div class="card__body col-sm-5 col-md-5 boxed boxed--lg bg--white">
+                                <h7>Carrefour Furniture</h7>
+                                <br>
+                                <br>
+                                <div class="card__title">
+                                    <h4>Rigid PVC lighting AC profile <br>for product showcase shelves.</h4>
+                                </div>
+                                <br>
+                                <p>
+                                    <b>Challenge:</b> <br>Fulfill the lighting requirements in the retail industry using
+                                    AC
+                                    linear lighting profiles removable with magnetic fixation. Linkable solution up to
+                                    100
+                                    meters and ultra slim.</p>
+                                <p>
+                                    <br> <b>CE RoHS</b></p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--End Carrefour -->
+
+                    <!-- Start Santander-->
                     <div class="col-sm-12">
 
                         <div class="card card--horizontal card-6">
@@ -152,7 +188,7 @@
                         </div>
 
                     </div>
-
+                    <!-- End Santand4er-->
 
                 </div>
 
@@ -162,6 +198,11 @@
         <section class="partners-1 space--sm bg">
             <div class="container">
                 <div class="row">
+                    <div class="col-sm-12">
+                        <div class="elements--title">
+                            <h2>Some of our customers</h2>
+                        </div>
+                    </div>
                     <div class="col-sm-12">
                         <div class="slider" data-items="5" data-timing="1000">
                             <ul class="slides">
